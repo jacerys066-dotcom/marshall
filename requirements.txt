@@ -1,0 +1,6 @@
+streamlit
+networkx
+matplotlib.pyplot 
+pandas
+random
+matplotlib
